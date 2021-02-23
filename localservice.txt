@@ -174,4 +174,273 @@ Mon Feb 22 17:24:43 2021Mon Feb 22 17:27:23 2021 LocalAPI response time:1.618000
 Tue Feb 23 12:43:35 2021 LocalAPI response time:3.4939730167388916 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
  Avatar's source : Alice or Alice
 
-Tue Feb 23 16:35:57 2021Tue Feb 23 16:35:59 2021Tue Feb 23 16:35:59 2021Tue Feb 23 16:35:59 2021Tue Feb 23 16:36:01 2021Tue Feb 23 16:36:01 2021Tue Feb 23 16:36:01 2021Tue Feb 23 16:36:01 2021Tue Feb 23 16:36:02 2021Tue Feb 23 16:36:02 2021Tue Feb 23 16:36:02 2021Tue Feb 23 16:36:03 2021Tue Feb 23 16:36:03 2021Tue Feb 23 16:36:04 2021Tue Feb 23 16:36:05 2021Tue Feb 23 16:36:05 2021Tue Feb 23 16:36:05 2021Tue Feb 23 16:36:05 2021Tue Feb 23 16:36:06 2021Tue Feb 23 16:36:06 2021Tue Feb 23 16:36:06 2021Tue Feb 23 16:36:07 2021Tue Feb 23 16:36:07 2021Tue Feb 23 16:36:08 2021Tue Feb 23 16:36:08 2021Tue Feb 23 16:36:08 2021Tue Feb 23 16:36:08 2021Tue Feb 23 16:36:09 2021Tue Feb 23 16:36:09 2021Tue Feb 23 16:36:09 2021Tue Feb 23 16:36:10 2021Tue Feb 23 16:36:11 2021Tue Feb 23 16:36:11 2021Tue Feb 23 16:36:11 2021Tue Feb 23 16:36:11 2021Tue Feb 23 16:36:12 2021Tue Feb 23 16:36:12 2021Tue Feb 23 16:36:13 2021Tue Feb 23 16:36:13 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:17 2021Tue Feb 23 16:36:17 2021Tue Feb 23 16:37:54 2021
+Tue Feb 23 16:35:57 2021Tue Feb 23 16:35:59 2021Tue Feb 23 16:35:59 2021Tue Feb 23 16:35:59 2021Tue Feb 23 16:36:01 2021Tue Feb 23 16:36:01 2021Tue Feb 23 16:36:01 2021Tue Feb 23 16:36:01 2021Tue Feb 23 16:36:02 2021Tue Feb 23 16:36:02 2021Tue Feb 23 16:36:02 2021Tue Feb 23 16:36:03 2021Tue Feb 23 16:36:03 2021Tue Feb 23 16:36:04 2021Tue Feb 23 16:36:05 2021Tue Feb 23 16:36:05 2021Tue Feb 23 16:36:05 2021Tue Feb 23 16:36:05 2021Tue Feb 23 16:36:06 2021Tue Feb 23 16:36:06 2021Tue Feb 23 16:36:06 2021Tue Feb 23 16:36:07 2021Tue Feb 23 16:36:07 2021Tue Feb 23 16:36:08 2021Tue Feb 23 16:36:08 2021Tue Feb 23 16:36:08 2021Tue Feb 23 16:36:08 2021Tue Feb 23 16:36:09 2021Tue Feb 23 16:36:09 2021Tue Feb 23 16:36:09 2021Tue Feb 23 16:36:10 2021Tue Feb 23 16:36:11 2021Tue Feb 23 16:36:11 2021Tue Feb 23 16:36:11 2021Tue Feb 23 16:36:11 2021Tue Feb 23 16:36:12 2021Tue Feb 23 16:36:12 2021Tue Feb 23 16:36:13 2021Tue Feb 23 16:36:13 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:17 2021Tue Feb 23 16:36:17 2021Tue Feb 23 16:37:54 2021Tue Feb 23 17:54:04 2021 LocalAPI response time:2.4690046310424805 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:44 2021Request: STEAMAPI LocalAPI response time:8.569984674453735 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:45 2021Request: STEAMAPI LocalAPI response time:8.602465867996216 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:45 2021Request: STEAMAPI LocalAPI response time:9.053990364074707 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:46 2021Request: STEAMAPI LocalAPI response time:10.140905380249023 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:46 2021Request: STEAMAPI LocalAPI response time:10.312984704971313 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:47 2021Request: STEAMAPI LocalAPI response time:11.100984334945679 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:50 2021Request: STEAMAPI LocalAPI response time:11.622726440429688 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:51 2021Request: STEAMAPI LocalAPI response time:13.765995740890503 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:51 2021Request: STEAMAPI LocalAPI response time:14.364126920700073 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:51 2021Request: STEAMAPI LocalAPI response time:13.512992858886719 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:15.160122394561768 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:15.532109022140503 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:15.06008267402649 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:14.058123588562012 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:15.098088026046753 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:14.197072744369507 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:14.21107530593872 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:14.743389129638672 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:15.770437240600586 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:15.267403602600098 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:15.285476446151733 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:14.278385877609253 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:15.309086322784424 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:14.293993473052979 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:14.291993379592896 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:25:52 2021Request: STEAMAPI LocalAPI response time:14.30999755859375 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:30 2021Request: STEAMAPI LocalAPI response time:4.405267715454102 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:31 2021Request: STEAMAPI LocalAPI response time:5.6605517864227295 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:31 2021Request: STEAMAPI LocalAPI response time:6.243255376815796 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:33 2021Request: STEAMAPI LocalAPI response time:7.602411985397339 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:33 2021Request: STEAMAPI LocalAPI response time:8.226287364959717 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:33 2021Request: STEAMAPI LocalAPI response time:8.237290859222412 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:34 2021Request: STEAMAPI LocalAPI response time:9.215510606765747 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:38 2021Request: STEAMAPI LocalAPI response time:13.104482889175415 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:38 2021Request: STEAMAPI LocalAPI response time:12.084481954574585 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:39 2021Request: STEAMAPI LocalAPI response time:13.160521984100342 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:39 2021Request: STEAMAPI LocalAPI response time:14.230797290802002 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:39 2021Request: STEAMAPI LocalAPI response time:13.15952205657959 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:39 2021Request: STEAMAPI LocalAPI response time:12.28732419013977 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:39 2021Request: STEAMAPI LocalAPI response time:12.272320985794067 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:39 2021Request: STEAMAPI LocalAPI response time:13.334561109542847 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:39 2021Request: STEAMAPI LocalAPI response time:13.335561990737915 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:40 2021Request: STEAMAPI LocalAPI response time:13.351565599441528 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:40 2021Request: STEAMAPI LocalAPI response time:13.352566003799438 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:40 2021Request: STEAMAPI LocalAPI response time:12.350338697433472 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:40 2021Request: STEAMAPI LocalAPI response time:12.352338790893555 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:40 2021Request: STEAMAPI LocalAPI response time:13.40057635307312 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:40 2021Request: STEAMAPI LocalAPI response time:12.38434648513794 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+
+Tue Feb 23 18:29:40 2021Request: STEAMAPI LocalAPI response time:12.3993501663208 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:40 2021Request: STEAMAPI LocalAPI response time:12.416353464126587 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:40 2021Request: STEAMAPI LocalAPI response time:12.417353630065918 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:40 2021Request: STEAMAPI LocalAPI response time:12.43135666847229 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:40 2021Request: STEAMAPI LocalAPI response time:14.475589752197266 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:40 2021Request: STEAMAPI LocalAPI response time:12.416353225708008 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 18:29:40 2021Request: STEAMAPI LocalAPI response time:13.44758653640747 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:29 2021Request: STEAMAPI LocalAPI response time:4.659005403518677 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:29 2021Request: STEAMAPI LocalAPI response time:5.044002532958984 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:30 2021Request: STEAMAPI LocalAPI response time:5.549003601074219 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:30 2021Request: STEAMAPI LocalAPI response time:5.58584451675415 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:30 2021Request: STEAMAPI LocalAPI response time:5.847525596618652 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:30 2021Request: STEAMAPI LocalAPI response time:5.905999183654785 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:30 2021Request: STEAMAPI LocalAPI response time:6.1613500118255615 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:30 2021Request: STEAMAPI LocalAPI response time:5.245000839233398 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:31 2021Request: STEAMAPI LocalAPI response time:6.454002141952515 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:31 2021Request: STEAMAPI LocalAPI response time:5.8808369636535645 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:31 2021Request: STEAMAPI LocalAPI response time:6.992349147796631 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:31 2021Request: STEAMAPI LocalAPI response time:7.196837663650513 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:32 2021Request: STEAMAPI LocalAPI response time:6.6534881591796875 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:33 2021Request: STEAMAPI LocalAPI response time:7.275836944580078 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:33 2021Request: STEAMAPI LocalAPI response time:7.962987422943115 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:34 2021Request: STEAMAPI LocalAPI response time:8.889984369277954 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:34 2021Request: STEAMAPI LocalAPI response time:8.0040123462677 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:34 2021Request: STEAMAPI LocalAPI response time:8.026016235351562 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:34 2021Request: STEAMAPI LocalAPI response time:8.044021129608154 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:35 2021Request: STEAMAPI LocalAPI response time:8.313998460769653 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:35 2021Request: STEAMAPI LocalAPI response time:8.342997789382935 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:35 2021Request: STEAMAPI LocalAPI response time:8.344998836517334 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:35 2021Request: STEAMAPI LocalAPI response time:9.363037824630737 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:35 2021Request: STEAMAPI LocalAPI response time:8.38220763206482 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:35 2021Request: STEAMAPI LocalAPI response time:9.39319372177124 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:35 2021Request: STEAMAPI LocalAPI response time:8.38921332359314 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:35 2021Request: STEAMAPI LocalAPI response time:8.397214412689209 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:35 2021Request: STEAMAPI LocalAPI response time:9.424984455108643 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:01:35 2021Request: STEAMAPI LocalAPI response time:9.42700457572937 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+
+Tue Feb 23 19:10:14 2021Request: STEAMAPI LocalAPI response time:1.8463563919067383 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+Tue Feb 23 19:12:45 2021Request: DOTAAPI LocalAPI response time:3.1401751041412354 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/69/69a59175e799041da4c185b83713dec84d243001_full.jpg
+ Avatar's source : Dies irae To the ring reincarnation
+Tue Feb 23 19:12:52 2021Request: STEAMAPI LocalAPI response time:1.4510395526885986 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+Tue Feb 23 19:12:56 2021Request: STEAMAPI LocalAPI response time:1.7764966487884521 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0a/0ab21248307b8eb98db72532a272d3074765a501_full.jpg
+ Avatar's source : Kingdom
+Tue Feb 23 19:14:00 2021Request: STEAMAPI LocalAPI response time:1.4889445304870605 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/529d4221d1847b5ea07962fd3b7fcc06c4367fb6_full.jpg
+ Avatar's source : Honey and Clover
+Tue Feb 23 19:14:06 2021Request: STEAMAPI LocalAPI response time:2.584395170211792 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0a/0ab21248307b8eb98db72532a272d3074765a501_full.jpg
+ Avatar's source : Kingdom
+Tue Feb 23 19:14:13 2021Request: DOTAAPI LocalAPI response time:2.2454192638397217 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/69/69a59175e799041da4c185b83713dec84d243001_full.jpg
+ Avatar's source : Dies irae To the ring reincarnation

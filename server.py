@@ -44,7 +44,6 @@ class MyHandler(http.server.BaseHTTPRequestHandler):
          s.send_response(200)
          s.send_header("Content-type", "text/html")
          s.end_headers()
-
          script=['1']
          id='0'
          type='0'
@@ -56,11 +55,11 @@ class MyHandler(http.server.BaseHTTPRequestHandler):
          for i in list(temp)[0:1]:
              type=temp[i]
 
-         print(script)
+         #print(script)
          for i in temp:
              id=temp[i]
-         print(id)
-         print(type)
+         #print(id)
+         #print(type)
 
          if script[0]=='ok':
              forscript(s,id,type,c)
@@ -85,7 +84,7 @@ def forscript(s,id,type,c):
         jsonresponse = json.dumps([avatar, name, title])
         s.wfile.write(jsonresponse.encode('utf-8'))
         delay = time.time() - c
-        locallogging(" LocalAPI response time:" + str(delay) + " Server response: " + avatar + "\n Avatar's source : " + title + '\n')
+        locallogging( "Request: " + type[0] + " LocalAPI response time:" + str(delay) + " Server response: " + avatar + "\n Avatar's source : " + title + '\n')
 def forinterface(s,id,type,c):
     response=''
     title=''
@@ -113,13 +112,13 @@ def forinterface(s,id,type,c):
     img = "<br>Profile Avatar:<br><img src=\"" + avatar + "\" width=\"200\" height=\"200\"> "
     s.wfile.write(b"<html><head><title>Title goes here.</title></head>")
     s.wfile.write(bytes(open("index.html").read(), 'utf-8'), )
-    s.wfile.write(bytes(str(response), 'UTF-8'))
+    #s.wfile.write(bytes(str(response), 'UTF-8'))
     s.wfile.write(bytes(img, 'utf-8'))
     s.wfile.write(bytes("<br> Avatar from :" + title, 'utf-8'))
     s.wfile.write(b"</body></html>")
     delay=time.time()-c
     if name!='':
-        locallogging(" LocalAPI response time:" + str(delay) + " Server response: " + avatar + "\n Avatar's source : " + title)
+        locallogging("Request: " + type[0] + " LocalAPI response time:" + str(delay) + " Server response: " + avatar + "\n Avatar's source : " + title)
 
 
 class ThreadingSimpleServer(ThreadingMixIn, http.server.HTTPServer):
@@ -130,10 +129,6 @@ def start():
     with server_class(("", PORT), MyHandler) as httpd:
         print("serving at port", PORT)
         httpd.serve_forever()
-def sendrequests1():
-    response=requests.get("http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002",params={"key": steamapi,"steamids": "76561198057225905"})
-    print(response.json()['response']['players'][0]['avatarfull'])
-
 
 def sendrequests2(avatar):
     c = time.time()
@@ -142,15 +137,13 @@ def sendrequests2(avatar):
     logging("Trace API response time:" + str(delay) )
     print(response.status_code)
     if response.status_code!=200:
-        return ""
+        return " "
     print(response.json())
-    return response.json()["docs"][0]['anime']
+    if response.json()["docs"][0]['title_english']!=None:
+        return response.json()["docs"][0]['title_english']
+    else:
+        return response.json()["docs"][0]['anime']
 
-def sendrequests3():
-
-    response=requests.get("https://api.opendota.com/api/players/1051246927")
-
-    print(response.json()["profile"]['avatarfull'])
 
 def logging(text):
     webserviceslogs=open("webservice.txt",'a')
