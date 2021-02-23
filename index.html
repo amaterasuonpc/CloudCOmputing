@@ -1,0 +1,35 @@
+<style>
+    form {
+        display: inline-block;
+        background-color: whitesmoke;
+        border: 5px solid black;
+        padding: 5px;
+        margin: 2px;
+    }
+</style>
+
+<body>
+
+<form action="index.html" method="get">
+     <select id="do" name="do">
+        <option value="STEAMAPI">Search on Steam based on ID</option>
+     </select><br>
+    <label>Search based on ID :</label><br>
+    <input type="text" name="userId" /><br>
+    
+    <input type="submit" value="Submit" />
+</form>
+
+<form action="index.html" method="get">
+     <select id="do" name="do">
+        <option value="DOTAAPI">Search on OpenDota based on ID</option>
+     </select><br>
+    <label>Search based on ID :</label><br>
+    <input type="text" name="userId" /><br>
+
+    <input type="submit" value="Submit" />
+</form>
+
+
+</body>
+</html>

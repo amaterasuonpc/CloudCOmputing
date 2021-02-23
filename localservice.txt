@@ -1,0 +1,177 @@
+Sat Feb 20 22:35:53 2021LocalAPI response time:2.5230343341827393
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+Alice or Alice
+Sun Feb 21 18:07:28 2021LocalAPI response time:2.919001340866089
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:07:54 2021LocalAPI response time:3.0350005626678467
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:08:29 2021LocalAPI response time:2.324002981185913
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:12:40 2021LocalAPI response time:4.935998201370239
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:13:08 2021LocalAPI response time:3.1989986896514893
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:14:21 2021LocalAPI response time:3.3949999809265137
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:14:35 2021LocalAPI response time:2.58400297164917
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:19:38 2021LocalAPI response time:2.362029552459717
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:20:42 2021LocalAPI response time:3.0549988746643066
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:30:43 2021LocalAPI response time:3.101823568344116
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:30:47 2021LocalAPI response time:2.34700083732605
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:30:52 2021LocalAPI response time:2.6720845699310303
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:30:57 2021LocalAPI response time:2.700817346572876
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:31:02 2021LocalAPI response time:2.968911647796631
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:31:07 2021LocalAPI response time:2.9250922203063965
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:45:07 2021LocalAPI response time:3.5169990062713623
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:45:11 2021LocalAPI response time:2.240999937057495
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:45:16 2021LocalAPI response time:2.826002597808838
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 18:45:21 2021LocalAPI response time:2.801994800567627
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 19:18:53 2021LocalAPI response time:6.621999263763428
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 19:18:53 2021LocalAPI response time:6.876000881195068
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 19:18:53 2021LocalAPI response time:6.951002836227417
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 19:18:53 2021LocalAPI response time:7.4820027351379395
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 19:18:53 2021LocalAPI response time:6.975005388259888
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 19:18:53 2021LocalAPI response time:7.504546165466309
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 19:18:54 2021LocalAPI response time:7.576414108276367
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 19:18:54 2021LocalAPI response time:7.59441876411438
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 19:18:54 2021LocalAPI response time:7.0944249629974365
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Sun Feb 21 19:18:54 2021LocalAPI response time:7.794001340866089
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Mon Feb 22 12:13:39 2021LocalAPI response time:7.761091232299805
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Mon Feb 22 12:13:40 2021LocalAPI response time:8.20614504814148
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Mon Feb 22 12:13:40 2021LocalAPI response time:8.213145971298218
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Mon Feb 22 12:13:40 2021LocalAPI response time:8.372670412063599
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Mon Feb 22 12:13:40 2021LocalAPI response time:8.478410959243774
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Mon Feb 22 12:13:40 2021LocalAPI response time:8.478410959243774
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Mon Feb 22 12:13:40 2021LocalAPI response time:8.480411529541016
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Mon Feb 22 12:13:40 2021LocalAPI response time:8.48641324043274
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Mon Feb 22 12:13:40 2021LocalAPI response time:8.49941611289978
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Mon Feb 22 12:13:40 2021LocalAPI response time:8.498415231704712
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Mon Feb 22 12:15:19 2021LocalAPI response time:2.2470040321350098
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Mon Feb 22 12:17:20 2021LocalAPI response time:3.4819986820220947
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Mon Feb 22 12:17:51 2021LocalAPI response time:3.1030004024505615
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar source: Alice or Alice
+Mon Feb 22 12:38:44 2021LocalAPI response time:3.639665365219116
+Response :https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/69/69a59175e799041da4c185b83713dec84d243001_full.jpg
+ Avatar source: Dies irae To the ring reincarnation
+Mon Feb 22 17:12:45 2021 LocalAPI response time:2.9219961166381836 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar's source : Amaterasu
+
+Mon Feb 22 17:12:45 2021LocalAPI response time:2.9219961166381836
+Mon Feb 22 17:12:52 2021Mon Feb 22 17:14:46 2021 LocalAPI response time:5.926076412200928 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar's source : Amaterasu
+
+Mon Feb 22 17:14:46 2021LocalAPI response time:5.926076412200928
+Mon Feb 22 17:14:46 2021 LocalAPI response time:0.0 Server response:  
+ Avatar's source : 
+
+Mon Feb 22 17:14:46 2021LocalAPI response time:0.0
+Mon Feb 22 17:20:49 2021 LocalAPI response time:0.0010001659393310547 Server response:  
+ Avatar's source : 
+
+Mon Feb 22 17:20:49 2021LocalAPI response time:0.0010001659393310547
+Mon Feb 22 17:20:50 2021 LocalAPI response time:0.0 Server response:  
+ Avatar's source : 
+
+Mon Feb 22 17:20:50 2021LocalAPI response time:0.0
+Mon Feb 22 17:20:58 2021Mon Feb 22 17:20:58 2021 LocalAPI response time:0.0010001659393310547 Server response:  
+ Avatar's source : 
+
+Mon Feb 22 17:20:58 2021LocalAPI response time:0.0010001659393310547
+Mon Feb 22 17:21:41 2021Mon Feb 22 17:21:41 2021 LocalAPI response time:0.00099945068359375 Server response:  
+ Avatar's source : 
+Mon Feb 22 17:21:41 2021LocalAPI response time:0.00099945068359375
+Mon Feb 22 17:22:09 2021 LocalAPI response time:3.900998592376709 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar's source : Amaterasu
+Mon Feb 22 17:22:09 2021LocalAPI response time:3.900998592376709
+Mon Feb 22 17:22:09 2021 LocalAPI response time:0.0 Server response:  
+ Avatar's source : 
+Mon Feb 22 17:22:09 2021LocalAPI response time:0.0
+Mon Feb 22 17:23:21 2021 LocalAPI response time:2.8700342178344727 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar's source : Amaterasu
+Mon Feb 22 17:23:21 2021LocalAPI response time:2.8700342178344727
+Mon Feb 22 17:23:22 2021LocalAPI response time:0.0
+Mon Feb 22 17:24:37 2021 LocalAPI response time:14.941002607345581 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar's source : Amaterasu
+Mon Feb 22 17:24:43 2021Mon Feb 22 17:27:23 2021 LocalAPI response time:1.6180002689361572 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/69/69a59175e799041da4c185b83713dec84d243001_full.jpg
+ Avatar's source : Dies irae To the ring reincarnation
+Tue Feb 23 12:43:35 2021 LocalAPI response time:3.4939730167388916 Server response: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04c85139b67595a550b10ec6601a01f4c4ed76a2_full.jpg
+ Avatar's source : Alice or Alice
+
+Tue Feb 23 16:35:57 2021Tue Feb 23 16:35:59 2021Tue Feb 23 16:35:59 2021Tue Feb 23 16:35:59 2021Tue Feb 23 16:36:01 2021Tue Feb 23 16:36:01 2021Tue Feb 23 16:36:01 2021Tue Feb 23 16:36:01 2021Tue Feb 23 16:36:02 2021Tue Feb 23 16:36:02 2021Tue Feb 23 16:36:02 2021Tue Feb 23 16:36:03 2021Tue Feb 23 16:36:03 2021Tue Feb 23 16:36:04 2021Tue Feb 23 16:36:05 2021Tue Feb 23 16:36:05 2021Tue Feb 23 16:36:05 2021Tue Feb 23 16:36:05 2021Tue Feb 23 16:36:06 2021Tue Feb 23 16:36:06 2021Tue Feb 23 16:36:06 2021Tue Feb 23 16:36:07 2021Tue Feb 23 16:36:07 2021Tue Feb 23 16:36:08 2021Tue Feb 23 16:36:08 2021Tue Feb 23 16:36:08 2021Tue Feb 23 16:36:08 2021Tue Feb 23 16:36:09 2021Tue Feb 23 16:36:09 2021Tue Feb 23 16:36:09 2021Tue Feb 23 16:36:10 2021Tue Feb 23 16:36:11 2021Tue Feb 23 16:36:11 2021Tue Feb 23 16:36:11 2021Tue Feb 23 16:36:11 2021Tue Feb 23 16:36:12 2021Tue Feb 23 16:36:12 2021Tue Feb 23 16:36:13 2021Tue Feb 23 16:36:13 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:14 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:15 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:16 2021Tue Feb 23 16:36:17 2021Tue Feb 23 16:36:17 2021Tue Feb 23 16:37:54 2021
