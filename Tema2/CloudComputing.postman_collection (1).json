@@ -1,0 +1,367 @@
+{
+	"info": {
+		"_postman_id": "6a205517-d18e-4588-b65d-e34fa71618a1",
+		"name": "CloudComputing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ValidREq",
+			"item": [
+				{
+					"name": "http://localhost:8080/Actors/24",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n        \"ID\": 24\r\n        \r\n }"
+						},
+						"url": {
+							"raw": "http://localhost:8080/Actors/24",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Actors",
+								"24"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8080/Shows/9",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": " {\r\n        \"ID\": 9\r\n        \r\n }"
+						},
+						"url": {
+							"raw": "http://localhost:8080/Shows/9",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Shows",
+								"9"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8080/Shows",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"ID\": 10,\r\n    \"Aired\": true,\r\n    \"Episodes\": 84,\r\n    \"Title\": \"Ghost in the shell 3\"\r\n}"
+						},
+						"url": {
+							"raw": "http://localhost:8080/Shows",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Shows"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8080/Shows/9/Actors",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"ID\": 8,\r\n    \"ID2\":1,\r\n    \"ID3\":4,\r\n    \"ID4\":14\r\n}"
+						},
+						"url": {
+							"raw": "http://localhost:8080/Shows/9/Actors",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Shows",
+								"9",
+								"Actors"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8080/Shows",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"ID\": 9,\r\n    \"Aired\": true,\r\n    \"Episodes\": 84,\r\n    \"Title\": \"Ghost in the shell 2\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "text"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/Shows",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Shows"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8080/Actors",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": " {\r\n        \"ID\": 24,\r\n        \"FirstName\": \"Sawano\",\r\n        \"LastName\": \"Hiroyuki\",\r\n        \"Age\": 45\r\n }"
+						},
+						"url": {
+							"raw": "http://localhost:8080/Actors",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Actors"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8080/Shows/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": " {\r\n        \"ID\": 1,\r\n        \"Aired\": true,\r\n        \"Episodes\": 57,\r\n        \"Title\": \"\"\r\n }",
+							"options": {
+								"raw": {
+									"language": "text"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/Shows/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Shows",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8080/Actors/24",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": " {\r\n        \"ID\": 24,\r\n        \"FirstName\": \"Sawano\",\r\n        \"LastName\": \"Hiroyuki\",\r\n        \"Age\": 46\r\n }"
+						},
+						"url": {
+							"raw": "http://localhost:8080/Actors/24",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Actors",
+								"24"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8080/Actors",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/Actors",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Actors"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8080/Shows/9/Actors",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/Shows/9/Actors",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Shows",
+								"9",
+								"Actors"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8080/Shows/1",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/Shows/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Shows",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/Shows",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Shows"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8080/Actors/",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": " {\r\n        \"ID\": 24,\r\n        \"FirstName\": Sawano,\r\n        \"LastName\": Hiroyuki,\r\n        \"age\": 45\r\n }"
+						},
+						"url": {
+							"raw": "http://localhost:8080/Actors",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Actors"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "No",
+			"item": [
+				{
+					"name": "http://localhost:8080/Actors",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{}"
+						},
+						"url": {
+							"raw": "http://localhost:8080/Actors",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Actors"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8080/Actors",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": " {\r\n        \"ID\": 24,\r\n        \"FirstName\": \"Sawano\",\r\n        \"LastName\": \"Hiroyuki\",\r\n        \"Age\": 46\r\n }"
+						},
+						"url": {
+							"raw": "http://localhost:8080/Actors",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"Actors"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
